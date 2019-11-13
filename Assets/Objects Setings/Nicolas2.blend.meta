@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: 6a4a109dee9c7624480d7d0584b8b60c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone_001
+    100004: Bone_001_L
+    100006: Bone_001_L_001
+    100008: Bone_001_L_002
+    100010: Bone_001_L_003
+    100012: Bone_001_L_008
+    100014: Bone_001_L_009
+    100016: Bone_001_L_010
+    100018: Bone_001_L_011
+    100020: Bone_001_L_012
+    100022: Bone_001_L_013
+    100024: Bone_001_L_014
+    100026: Bone_001_L_015
+    100028: Bone_001_L_016
+    100030: Bone_001_L_017
+    100032: Bone_001_L_018
+    100034: Bone_001_L_019
+    100036: Bone_001_L_020
+    100038: Bone_001_L_021
+    100040: Bone_001_L_022
+    100042: Bone_001_R
+    100044: Bone_001_R_001
+    100046: Bone_001_R_002
+    100048: Bone_001_R_003
+    100050: Bone_001_R_008
+    100052: Bone_001_R_009
+    100054: Bone_001_R_010
+    100056: Bone_001_R_011
+    100058: Bone_001_R_012
+    100060: Bone_001_R_013
+    100062: Bone_001_R_014
+    100064: Bone_001_R_015
+    100066: Bone_001_R_016
+    100068: Bone_001_R_017
+    100070: Bone_001_R_018
+    100072: Bone_001_R_019
+    100074: Bone_001_R_020
+    100076: Bone_001_R_021
+    100078: Bone_001_R_022
+    100080: Bone_002
+    100082: Bone_003
+    100084: Caneta
+    100086: cientista_Armature
+    100088: Nicolas
+    100090: //RootNode
+    100092: Notas
+    100094: Oculos
+    100096: Nicolas_001
+    100098: Nicolas_002
+    400000: Bone
+    400002: Bone_001
+    400004: Bone_001_L
+    400006: Bone_001_L_001
+    400008: Bone_001_L_002
+    400010: Bone_001_L_003
+    400012: Bone_001_L_008
+    400014: Bone_001_L_009
+    400016: Bone_001_L_010
+    400018: Bone_001_L_011
+    400020: Bone_001_L_012
+    400022: Bone_001_L_013
+    400024: Bone_001_L_014
+    400026: Bone_001_L_015
+    400028: Bone_001_L_016
+    400030: Bone_001_L_017
+    400032: Bone_001_L_018
+    400034: Bone_001_L_019
+    400036: Bone_001_L_020
+    400038: Bone_001_L_021
+    400040: Bone_001_L_022
+    400042: Bone_001_R
+    400044: Bone_001_R_001
+    400046: Bone_001_R_002
+    400048: Bone_001_R_003
+    400050: Bone_001_R_008
+    400052: Bone_001_R_009
+    400054: Bone_001_R_010
+    400056: Bone_001_R_011
+    400058: Bone_001_R_012
+    400060: Bone_001_R_013
+    400062: Bone_001_R_014
+    400064: Bone_001_R_015
+    400066: Bone_001_R_016
+    400068: Bone_001_R_017
+    400070: Bone_001_R_018
+    400072: Bone_001_R_019
+    400074: Bone_001_R_020
+    400076: Bone_001_R_021
+    400078: Bone_001_R_022
+    400080: Bone_002
+    400082: Bone_003
+    400084: Caneta
+    400086: cientista_Armature
+    400088: Nicolas
+    400090: //RootNode
+    400092: Notas
+    400094: Oculos
+    400096: Nicolas_001
+    400098: Nicolas_002
+    4300000: Oculos
+    4300002: Caneta
+    4300004: Notas
+    4300006: Nicolas
+    4300008: Nicolas_001
+    4300010: Nicolas_002
+    7400000: Default Take
+    7400002: anim1
+    9500000: //RootNode
+    13700000: Caneta
+    13700002: Nicolas
+    13700004: Notas
+    13700006: Oculos
+    13700008: Nicolas_001
+    13700010: Nicolas_002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: anim1
+      takeName: anim1
+      firstFrame: -1
+      lastFrame: 52
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Caneta
+        weight: 1
+      - path: cientista_Armature
+        weight: 1
+      - path: cientista_Armature/Bone
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_L
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_L/Bone_001_L_001
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_003
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_003/Bone_001_L_008
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_003/Bone_001_L_008/Bone_001_L_009
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_003/Bone_001_L_008/Bone_001_L_009/Bone_001_L_010
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_003/Bone_001_L_011
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_003/Bone_001_L_011/Bone_001_L_012
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_003/Bone_001_L_011/Bone_001_L_012/Bone_001_L_013
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_003/Bone_001_L_014
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_003/Bone_001_L_014/Bone_001_L_015
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_003/Bone_001_L_014/Bone_001_L_015/Bone_001_L_016
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_003/Bone_001_L_017
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_003/Bone_001_L_017/Bone_001_L_018
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_003/Bone_001_L_017/Bone_001_L_018/Bone_001_L_019
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_020
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_020/Bone_001_L_021
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_L/Bone_001_L_001/Bone_001_L_002/Bone_001_L_020/Bone_001_L_021/Bone_001_L_022
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_R
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_R/Bone_001_R_001
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_003
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_003/Bone_001_R_008
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_003/Bone_001_R_008/Bone_001_R_009
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_003/Bone_001_R_008/Bone_001_R_009/Bone_001_R_010
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_003/Bone_001_R_011
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_003/Bone_001_R_011/Bone_001_R_012
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_003/Bone_001_R_011/Bone_001_R_012/Bone_001_R_013
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_003/Bone_001_R_014
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_003/Bone_001_R_014/Bone_001_R_015
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_003/Bone_001_R_014/Bone_001_R_015/Bone_001_R_016
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_003/Bone_001_R_017
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_003/Bone_001_R_017/Bone_001_R_018
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_003/Bone_001_R_017/Bone_001_R_018/Bone_001_R_019
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_020
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_020/Bone_001_R_021
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_001_R/Bone_001_R_001/Bone_001_R_002/Bone_001_R_020/Bone_001_R_021/Bone_001_R_022
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_002
+        weight: 1
+      - path: cientista_Armature/Bone/Bone_001/Bone_002/Bone_003
+        weight: 1
+      - path: Nicolas
+        weight: 1
+      - path: Notas
+        weight: 1
+      - path: Oculos
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
